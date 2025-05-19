@@ -6,7 +6,7 @@ import { Providers } from './providers'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'TradeVision - Análise de Varejo com IA',
+  title: 'TradeBox - Análise de Varejo com IA',
   description: 'Sistema com inteligência artificial para análise de prateleiras e preços de concorrentes',
 }
 

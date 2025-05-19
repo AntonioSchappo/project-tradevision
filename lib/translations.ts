@@ -9,11 +9,11 @@ interface Translations {
 export const translations: Translations = {
   'en': {
     'metadata': {
-      'title': 'TradeVision - AI-Powered Retail Analysis',
+      'title': 'TradeBox - AI-Powered Retail Analysis',
       'description': 'AI-powered system for analyzing store shelves and competitor prices',
     },
     'header': {
-      'title': 'TradeVision',
+      'title': 'TradeBox',
       'launchApp': 'Launch App',
       'dashboard': 'Dashboard',
     },
@@ -40,7 +40,7 @@ export const translations: Translations = {
       },
     },
     'footer': {
-      'copyright': '© 2025 TradeVision. All rights reserved.',
+      'copyright': '© 2025 TradeBox. All rights reserved.',
     },
     'app': {
       'tabs': {
@@ -54,7 +54,7 @@ export const translations: Translations = {
         'settings': 'Settings'
       },
       'header': {
-        'title': 'TradeVision',
+        'title': 'TradeBox',
         'toggleTheme': 'Toggle theme',
         'profile': 'Profile'
       },
@@ -120,7 +120,7 @@ export const translations: Translations = {
       }
     },
     'login': {
-      'title': 'TradeVision',
+      'title': 'TradeBox',
       'subtitle': 'Enter your credentials to access the dashboard',
       'email': 'Email',
       'password': 'Password',
@@ -384,11 +384,11 @@ export const translations: Translations = {
   },
   'pt-BR': {
     'metadata': {
-      'title': 'TradeVision - Análise de Varejo com IA',
+      'title': 'TradeBox - Análise de Varejo com IA',
       'description': 'Sistema com inteligência artificial para análise de prateleiras e preços de concorrentes',
     },
     'header': {
-      'title': 'TradeVision',
+      'title': 'TradeBox',
       'launchApp': 'Iniciar Aplicativo',
       'dashboard': 'Painel de Controle',
     },
@@ -415,7 +415,7 @@ export const translations: Translations = {
       },
     },
     'footer': {
-      'copyright': ' 2025 TradeVision. Todos os direitos reservados.',
+      'copyright': ' 2025 TradeBox. Todos os direitos reservados.',
     },
     'app': {
       'tabs': {
@@ -429,7 +429,7 @@ export const translations: Translations = {
         'settings': 'Configurações'
       },
       'header': {
-        'title': 'TradeVision',
+        'title': 'TradeBox',
         'toggleTheme': 'Alternar tema',
         'profile': 'Perfil'
       },
@@ -495,7 +495,7 @@ export const translations: Translations = {
       }
     },
     'login': {
-      'title': 'TradeVision',
+      'title': 'TradeBox',
       'subtitle': 'Digite suas credenciais para acessar o painel',
       'email': 'Email',
       'password': 'Senha',
